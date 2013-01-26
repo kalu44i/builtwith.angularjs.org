@@ -2,6 +2,25 @@
   "featured": "YouTube on PS3",
   "projects": [
     {
+      "name": "Udacity",
+      "thumb": "udacity/thumb.png",
+      "desc": "Learn. Think. Do. Invent your future through free interactive college classes.",
+      "url": "http://udacity.com",
+      "info": "https://www.udacity.com/how-it-works",
+      "submitter": "betaorbust",
+      "submissionDate": "2013-01-25",
+      "tags": [
+        "Production",
+        "Education", "MOOC",
+        "Animations",
+        "Google App Engine",
+        "Bootstrap",
+        "CSS3",
+        "HTML5",
+        "jQuery"
+      ]
+    },
+    {
       "name": "Shortkeys for Chrome",
       "thumb": "shortkeys-chrome/thumb.png",
       "desc": "A Chrome extension for custom keyboard shortcuts. Angular powers the admin/options UI",
